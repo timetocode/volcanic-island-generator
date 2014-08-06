@@ -6,7 +6,7 @@ A procedural terrain generator for use in games.
 
 More pictures of the output: http://timetocode.tumblr.com/post/93970694121/volcanic-map-generation-step-by-step
 
-Download and open index.html to run the generator. Only tested in chrome so far.
+Open index.html to run the generator (requires app.js as well). Only tested in chrome so far.
 
 The code is clientside javascript, but it is written in a node.js style and built with watchify. https://github.com/substack/watchify
 
